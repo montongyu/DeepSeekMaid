@@ -1,0 +1,394 @@
+{
+  "adaptive_strike": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "all_for_one": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "ball_lightning": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "barrage": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "beam_cell": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "biased_cognition": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "boost_away": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "boot_sequence": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "buffer": {
+    "palette": "guard",
+    "direction": "emerald green, jade and lime-gold shields/healing, cream and forest backdrop"
+  },
+  "bulk_up": {
+    "palette": "guard",
+    "direction": "emerald green, jade and lime-gold shields/healing, cream and forest backdrop"
+  },
+  "capacitor": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "chaos": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "charge_battery": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "chill": {
+    "palette": "frost",
+    "direction": "glacial turquoise, jade-cyan ice, frosted silver and white, pale mint backdrop"
+  },
+  "claw": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "cold_snap": {
+    "palette": "frost",
+    "direction": "glacial turquoise, jade-cyan ice, frosted silver and white, pale mint backdrop"
+  },
+  "compact": {
+    "palette": "guard",
+    "direction": "emerald green, jade and lime-gold shields/healing, cream and forest backdrop"
+  },
+  "compile_driver": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "consume": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "consuming_shadow": {
+    "palette": "dark",
+    "direction": "amethyst violet, wine-purple shadows and magenta accents, near-black background"
+  },
+  "coolant": {
+    "palette": "frost",
+    "direction": "glacial turquoise, jade-cyan ice, frosted silver and white, pale mint backdrop"
+  },
+  "coolheaded": {
+    "palette": "frost",
+    "direction": "glacial turquoise, jade-cyan ice, frosted silver and white, pale mint backdrop"
+  },
+  "creative_ai": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "darkness": {
+    "palette": "dark",
+    "direction": "amethyst violet, wine-purple shadows and magenta accents, near-black background"
+  },
+  "defend_defect": {
+    "palette": "guard",
+    "direction": "emerald green, jade and lime-gold shields/healing, cream and forest backdrop"
+  },
+  "defragment": {
+    "palette": "guard",
+    "direction": "emerald green, jade and lime-gold shields/healing, cream and forest backdrop"
+  },
+  "double_energy": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "dualcast": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "echo_form": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "energy_surge": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "feral": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "fight_through": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "fission": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "flak_cannon": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "focused_strike": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "ftl": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "fusion": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "genetic_algorithm": {
+    "palette": "guard",
+    "direction": "emerald green, jade and lime-gold shields/healing, cream and forest backdrop"
+  },
+  "glacier": {
+    "palette": "frost",
+    "direction": "glacial turquoise, jade-cyan ice, frosted silver and white, pale mint backdrop"
+  },
+  "glasswork": {
+    "palette": "glass",
+    "direction": "iridescent mint green and rose-pink glass with pearl highlights, soft sage backdrop"
+  },
+  "go_for_the_eyes": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "gunk_up": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "hailstorm": {
+    "palette": "frost",
+    "direction": "glacial turquoise, jade-cyan ice, frosted silver and white, pale mint backdrop"
+  },
+  "helix_drill": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "hibernate": {
+    "palette": "frost",
+    "direction": "glacial turquoise, jade-cyan ice, frosted silver and white, pale mint backdrop"
+  },
+  "hologram": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "hotfix": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "hyperbeam": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "ice_lance": {
+    "palette": "frost",
+    "direction": "glacial turquoise, jade-cyan ice, frosted silver and white, pale mint backdrop"
+  },
+  "ignition": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "imitation_learning": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "iteration": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "leap": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "lightning_mastery": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "lightning_rod": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "lock_on": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "loop": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "machine_learning": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "meteor_strike": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "modded": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "momentum_strike": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "multi_cast": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "null": {
+    "palette": "dark",
+    "direction": "amethyst violet, wine-purple shadows and magenta accents, near-black background"
+  },
+  "one_for_all": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "overclock": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "quadcast": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "rainbow": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "reboot": {
+    "palette": "guard",
+    "direction": "emerald green, jade and lime-gold shields/healing, cream and forest backdrop"
+  },
+  "refract": {
+    "palette": "glass",
+    "direction": "iridescent mint green and rose-pink glass with pearl highlights, soft sage backdrop"
+  },
+  "rocket_punch": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "scavenge": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "scrape": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "seek": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "self_repair": {
+    "palette": "guard",
+    "direction": "emerald green, jade and lime-gold shields/healing, cream and forest backdrop"
+  },
+  "shadow_shield": {
+    "palette": "dark",
+    "direction": "amethyst violet, wine-purple shadows and magenta accents, near-black background"
+  },
+  "shatter": {
+    "palette": "glass",
+    "direction": "iridescent mint green and rose-pink glass with pearl highlights, soft sage backdrop"
+  },
+  "signal_boost": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "skim": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "smokestack": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "spinner": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "storm": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "strike_defect": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "subroutine": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "sunder": {
+    "palette": "impact",
+    "direction": "coral red, vermilion and warm copper impact arcs, warm peach or red-brown backdrop"
+  },
+  "supercritical": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "sweeping_beam": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "synchronize": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "synthesis": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "tempest": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "tesla_coil": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "thunder": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "thunder_strike": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "trash_to_treasure": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "turbo": {
+    "palette": "plasma",
+    "direction": "fiery orange, amber and crimson plasma, warm burgundy backdrop"
+  },
+  "uproar": {
+    "palette": "rose",
+    "direction": "rose-pink, lilac and peach magic, warm ivory backgrounds, rainbow accents only for rainbow"
+  },
+  "voltaic": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  },
+  "white_noise": {
+    "palette": "teal",
+    "direction": "teal, sea-green and turquoise data glyphs, warm gold details, dark evergreen or pale cream background"
+  },
+  "zap": {
+    "palette": "lightning",
+    "direction": "bright lemon yellow and rich gold lightning, deep charcoal background, ivory highlights"
+  }
+}

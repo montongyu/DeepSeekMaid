@@ -1,0 +1,12 @@
+{
+  "id": "DeepSeekMaid",
+  "name": "DeepSeek 娘 · 鲸蓝女仆",
+  "author": "Local Mod Project",
+  "description": "故障机器人外观主题：统一掌心向上默认姿势，待机长发分层延迟摆动、卷发与呆毛回弹、呼吸眨眼，整套 50 动作衔接。保留多色卡面、卡通元素球和深海背景。适配 public-beta v0.111.0。",
+  "version": "0.8.6",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false,
+  "min_game_version": "0.111.0"
+}

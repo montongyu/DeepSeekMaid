@@ -1,0 +1,45 @@
+{
+  "status": "animatic_for_review_not_game_ready",
+  "exact_original_poses": 3,
+  "painted_intervening_poses_used": 5,
+  "distinct_pictures": 8,
+  "duration_ms": 1500,
+  "frame_durations_ms": [
+    340,
+    70,
+    60,
+    180,
+    60,
+    80,
+    70,
+    640
+  ],
+  "keyframe_checks": [
+    {
+      "key": 1,
+      "max_original_pixel_error": 0
+    },
+    {
+      "key": 2,
+      "max_original_pixel_error": 0
+    },
+    {
+      "key": 3,
+      "max_original_pixel_error": 0
+    }
+  ],
+  "source_sha256": "1dc487b5926b36b71b3611e5b50cfc6d59271ac666f70f467961f63581511085",
+  "painted_sha256": "920d2bbfb56f25c77b435faee1e882cccfe5ae07887e6603b1d64b5163aa2012",
+  "source_vs_user_attachment_rgb_error": 0,
+  "automatic_morph_result": "rejected; not included",
+  "limitations": [
+    "Painted inbetweens change some details and body spacing.",
+    "This is timed keyframe blocking, not a completed smooth animation.",
+    "The review retains the original opaque navy backdrop.",
+    "No runtime animation, release package or installed game was modified."
+  ],
+  "image_tool": "built-in image_gen; no API or CLI fallback",
+  "prompt": "assets/concept/attack-exact-inbetweens-prompt.txt",
+  "dist_modified": false,
+  "game_deployed": false
+}

@@ -1,0 +1,25 @@
+.tools/
+**/bin/
+**/obj/
+work/
+*.user
+dist/
+**/__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+
+# Reproducible native animation and embedded browser data.
+assets/animation/*
+!assets/animation/reference-guard-author.json
+!assets/animation/reference-spell-author.json
+preview/rig-data.js
+preview/rig-texture.js
+
+# Keep the current review GIFs; historical exports remain local.
+preview/*-v*
+!preview/*-v0.8.6.gif
+!preview/contact-sheet-v0.8.6.png
+!preview/all-actions-v0.8.6.png

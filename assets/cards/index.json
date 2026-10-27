@@ -1,0 +1,494 @@
+{
+  "adaptive_strike": {
+    "sheet": 0,
+    "slot": 0,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "all_for_one": {
+    "sheet": 0,
+    "slot": 1,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "ball_lightning": {
+    "sheet": 0,
+    "slot": 2,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "barrage": {
+    "sheet": 0,
+    "slot": 3,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "beam_cell": {
+    "sheet": 0,
+    "slot": 4,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "biased_cognition": {
+    "sheet": 0,
+    "slot": 5,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "boost_away": {
+    "sheet": 0,
+    "slot": 6,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "boot_sequence": {
+    "sheet": 0,
+    "slot": 7,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "buffer": {
+    "sheet": 0,
+    "slot": 8,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "bulk_up": {
+    "sheet": 0,
+    "slot": 9,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "capacitor": {
+    "sheet": 0,
+    "slot": 10,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "chaos": {
+    "sheet": 0,
+    "slot": 11,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "charge_battery": {
+    "sheet": 0,
+    "slot": 12,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "chill": {
+    "sheet": 0,
+    "slot": 13,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "claw": {
+    "sheet": 0,
+    "slot": 14,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "cold_snap": {
+    "sheet": 0,
+    "slot": 15,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "compact": {
+    "sheet": 0,
+    "slot": 16,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "compile_driver": {
+    "sheet": 0,
+    "slot": 17,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "consume": {
+    "sheet": 0,
+    "slot": 18,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "consuming_shadow": {
+    "sheet": 0,
+    "slot": 19,
+    "sheet_file": "cards-00-v0.8.png"
+  },
+  "coolant": {
+    "sheet": 1,
+    "slot": 0,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "coolheaded": {
+    "sheet": 1,
+    "slot": 1,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "creative_ai": {
+    "sheet": 1,
+    "slot": 2,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "darkness": {
+    "sheet": 1,
+    "slot": 3,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "defend_defect": {
+    "sheet": 1,
+    "slot": 4,
+    "file": "defend-defect-v0.5.png",
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "defragment": {
+    "sheet": 1,
+    "slot": 5,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "double_energy": {
+    "sheet": 1,
+    "slot": 6,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "dualcast": {
+    "sheet": 1,
+    "slot": 7,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "echo_form": {
+    "sheet": 1,
+    "slot": 8,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "energy_surge": {
+    "sheet": 1,
+    "slot": 9,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "feral": {
+    "sheet": 1,
+    "slot": 10,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "fight_through": {
+    "sheet": 1,
+    "slot": 11,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "fission": {
+    "sheet": 1,
+    "slot": 12,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "flak_cannon": {
+    "sheet": 1,
+    "slot": 13,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "focused_strike": {
+    "sheet": 1,
+    "slot": 14,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "ftl": {
+    "sheet": 1,
+    "slot": 15,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "fusion": {
+    "sheet": 1,
+    "slot": 16,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "genetic_algorithm": {
+    "sheet": 1,
+    "slot": 17,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "glacier": {
+    "sheet": 1,
+    "slot": 18,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "glasswork": {
+    "sheet": 1,
+    "slot": 19,
+    "sheet_file": "cards-01-v0.8.png"
+  },
+  "go_for_the_eyes": {
+    "sheet": 2,
+    "slot": 0,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "gunk_up": {
+    "sheet": 2,
+    "slot": 1,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "hailstorm": {
+    "sheet": 2,
+    "slot": 2,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "helix_drill": {
+    "sheet": 2,
+    "slot": 3,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "hibernate": {
+    "sheet": 2,
+    "slot": 4,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "hologram": {
+    "sheet": 2,
+    "slot": 5,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "hotfix": {
+    "sheet": 2,
+    "slot": 6,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "hyperbeam": {
+    "sheet": 2,
+    "slot": 7,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "ice_lance": {
+    "sheet": 2,
+    "slot": 8,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "ignition": {
+    "sheet": 2,
+    "slot": 9,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "imitation_learning": {
+    "sheet": 2,
+    "slot": 10,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "iteration": {
+    "sheet": 2,
+    "slot": 11,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "leap": {
+    "sheet": 2,
+    "slot": 12,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "lightning_mastery": {
+    "sheet": 2,
+    "slot": 13,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "lightning_rod": {
+    "sheet": 2,
+    "slot": 14,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "lock_on": {
+    "sheet": 2,
+    "slot": 15,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "loop": {
+    "sheet": 2,
+    "slot": 16,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "machine_learning": {
+    "sheet": 2,
+    "slot": 17,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "meteor_strike": {
+    "sheet": 2,
+    "slot": 18,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "modded": {
+    "sheet": 2,
+    "slot": 19,
+    "sheet_file": "cards-02-v0.8.png"
+  },
+  "momentum_strike": {
+    "sheet": 3,
+    "slot": 0,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "multi_cast": {
+    "sheet": 3,
+    "slot": 1,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "null": {
+    "sheet": 3,
+    "slot": 2,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "one_for_all": {
+    "sheet": 3,
+    "slot": 3,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "overclock": {
+    "sheet": 3,
+    "slot": 4,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "quadcast": {
+    "sheet": 3,
+    "slot": 5,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "rainbow": {
+    "sheet": 3,
+    "slot": 6,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "reboot": {
+    "sheet": 3,
+    "slot": 7,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "refract": {
+    "sheet": 3,
+    "slot": 8,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "rocket_punch": {
+    "sheet": 3,
+    "slot": 9,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "scavenge": {
+    "sheet": 3,
+    "slot": 10,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "scrape": {
+    "sheet": 3,
+    "slot": 11,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "seek": {
+    "sheet": 3,
+    "slot": 12,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "self_repair": {
+    "sheet": 3,
+    "slot": 13,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "shadow_shield": {
+    "sheet": 3,
+    "slot": 14,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "shatter": {
+    "sheet": 3,
+    "slot": 15,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "signal_boost": {
+    "sheet": 3,
+    "slot": 16,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "skim": {
+    "sheet": 3,
+    "slot": 17,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "smokestack": {
+    "sheet": 3,
+    "slot": 18,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "spinner": {
+    "sheet": 3,
+    "slot": 19,
+    "sheet_file": "cards-03-v0.8.png"
+  },
+  "storm": {
+    "sheet": 4,
+    "slot": 0,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "strike_defect": {
+    "sheet": 4,
+    "slot": 1,
+    "file": "strike-defect-v0.5.png",
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "subroutine": {
+    "sheet": 4,
+    "slot": 2,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "sunder": {
+    "sheet": 4,
+    "slot": 3,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "supercritical": {
+    "sheet": 4,
+    "slot": 4,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "sweeping_beam": {
+    "sheet": 4,
+    "slot": 5,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "synchronize": {
+    "sheet": 4,
+    "slot": 6,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "synthesis": {
+    "sheet": 4,
+    "slot": 7,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "tempest": {
+    "sheet": 4,
+    "slot": 8,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "tesla_coil": {
+    "sheet": 4,
+    "slot": 9,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "thunder": {
+    "sheet": 4,
+    "slot": 10,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "thunder_strike": {
+    "sheet": 4,
+    "slot": 11,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "trash_to_treasure": {
+    "sheet": 4,
+    "slot": 12,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "turbo": {
+    "sheet": 4,
+    "slot": 13,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "uproar": {
+    "sheet": 4,
+    "slot": 14,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "voltaic": {
+    "sheet": 4,
+    "slot": 15,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "white_noise": {
+    "sheet": 4,
+    "slot": 16,
+    "sheet_file": "cards-04-v0.8.png"
+  },
+  "zap": {
+    "sheet": 4,
+    "slot": 17,
+    "sheet_file": "cards-04-v0.8.png"
+  }
+}

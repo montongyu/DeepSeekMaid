@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <LangVersion>13</LangVersion>
+    <AssemblyName>DeepSeekMaid</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <GameDir Condition="'$(GameDir)' == ''">C:\game\steamapps\common\Slay the Spire 2</GameDir>
+    <GameData>$(GameDir)\data_sts2_windows_x86_64</GameData>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="src\*.cs" />
+    <Reference Include="sts2"><HintPath>$(GameData)\sts2.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="GodotSharp"><HintPath>$(GameData)\GodotSharp.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(GameData)\0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <EmbeddedResource Include="assets\cards\cards-??-v0.8.png;assets\cards\strike-defect-v0.5.png;assets\cards\defend-defect-v0.5.png" LogicalName="DeepSeekMaid.%(Filename)%(Extension)" />
+    <EmbeddedResource Include="assets\cards\index.json" LogicalName="DeepSeekMaid.cards.index" />
+    <EmbeddedResource Include="assets\effects\elemental-orbs.png" LogicalName="DeepSeekMaid.elements.png" />
+    <EmbeddedResource Include="assets\ui\character-select.png" LogicalName="DeepSeekMaid.selection.png" />
+    <EmbeddedResource Include="assets\ui\selection-background.png" LogicalName="DeepSeekMaid.selection-background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="assets\animation\maid.spine-json" CopyToOutputDirectory="PreserveNewest" TargetPath="animation\maid.spine-json" />
+    <None Update="assets\animation\maid.atlas" CopyToOutputDirectory="PreserveNewest" TargetPath="animation\maid.atlas" />
+    <None Update="assets\sprites\offer-master-v0.8.5.png;assets\sprites\offer-body-v0.8.5.png;assets\sprites\offer-blink-v0.8.5.png;assets\sprites\offer-angry-v0.8.5.png;assets\sprites\offer-prone-v0.8.5.png;assets\sprites\reference-palm-0-v0.8.2.png;assets\sprites\reference-palm-1-v0.8.2.png;assets\sprites\reference-palm-2-v0.8.2.png;assets\sprites\reference-guard-0-v0.8.3.png;assets\sprites\reference-guard-1-v0.8.3.png;assets\sprites\reference-spell-0-v0.8.4.png;assets\sprites\reference-water-v0.8.2.png;assets\sprites\reference-shield-v0.8.3.png" CopyToOutputDirectory="PreserveNewest" TargetPath="animation\%(Filename)%(Extension)" />
+  </ItemGroup>
+</Project>

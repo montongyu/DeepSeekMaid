@@ -1,0 +1,14 @@
+Use case: identity-preserve / animation inbetween sheet.
+Input image 1 is the LOCKED approved attack storyboard. Its three poses are the authoritative anatomy, character design, clothing, camera and movement; do not reinterpret them as a different attack.
+Create ONE production-quality 3 by 3 sprite sheet, 3072 by 3072 pixels, exactly nine equal 1024-square cells. Each cell contains ONE full-body blue-haired whale maid facing screen right. Render on genuinely transparent background, no navy background, no ground shadows, no letters, numbers, borders or guides. Each character has the same apparent scale, fixed ground baseline at 94% cell height; generous margins for the hair and water ring. Keep a fixed camera. Preserve the reference's adult proportions, face, detailed navy-white-gold maid uniform, cyan hair tips, navy whale tail and shoes. She is a single coherent painted character, not cutout limbs.
+Read cells row-major as nine frames of ONE palm strike:
+1. Exact LEFT reference pose: wide bent-knee stance; foreground open palm held close to chest, rear fist at waist, ready to strike.
+2. First inbetween: weight shifts onto front/right leg, waist begins turning right, foreground elbow begins opening, palm moves one third of the way forward. Rear fist moves back.
+3. Second inbetween: torso rotates further right, foreground elbow almost straight, palm two thirds forward, rear arm sweeps behind; hair and skirt follow with lag.
+4. Exact MIDDLE reference pose: low rightward lunge, rear/left leg long and extended, front/right knee bent, torso turned right, foreground arm fully extended horizontally, fingers pointing up, vertical bright cyan water ring immediately in front of palm; rear arm behind.
+5. One beat after impact: same outstretched arm, ring expands, hair and tail catch up, front knee remains planted.
+6. First recovery inbetween: elbow bends and hand draws toward chest, torso begins unwinding; water ring dissolves to a few droplets. Rear hand comes forward.
+7. Second recovery inbetween: hand is halfway back, shoulders and hips settling; no double hands, no motion trails.
+8. Exact RIGHT reference pose: wide stance, torso partly turned right; foreground open hand near upper chest, rear hand curled near waist, both elbows naturally bent. No water ring.
+9. Settled RIGHT reference pose: same as cell 8, tiny final settling of hair and dress.
+CRITICAL: Match the three supplied poses and especially the palm, elbow, shoulder, hip, knee, heel positions. Do not use a straight-legged standing pose. Do not swing a fist or kick. Hands must have clean natural anatomy, exactly two arms and two legs, no duplicated limb remnants. No crossfade ghosts or double exposure. Every cell must be complete from hair curl to shoe soles and tail tips; nothing cropped. High fidelity anime game illustration matching the source, consistent character from frame to frame.
